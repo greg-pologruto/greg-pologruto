@@ -27,7 +27,7 @@ Computer Science student at the University of Dayton with hands-on experience ap
 - Conducted data-driven analysis of production remake issues, identifying savings projected to cut annual expenses by ~$80k
 - Developed automated Excel-based data entry tools used by 4 engineering leaders, saving hours of manual effort monthly
 - Designed a Jira workspace for 30+ Operations users, implementing automated workflows, approval routing, and custom forms
-- Developed and maintained Power BI reports to streamline data analysis and improve visibility into key operational metrics
+- Produced and maintained Power BI reports to streamline data analysis and improve visibility into key operational metrics
 
 **Information Technology Intern** — June 2025 – August 2025
 *FedEx* — Pittsburgh, PA
