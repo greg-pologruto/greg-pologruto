@@ -63,13 +63,13 @@ Computer Science student at the University of Dayton with hands-on experience ap
 
 ## Activities & Leadership
 
-**School of Engineering, Computer Science Student Ambassador** — January 2025 – Present
-*Student Ambassador*
+**School of Engineering, Computer Science Student Ambassador** — January 2025 – Present 
+(*Student Ambassador*)
 
 - Guided 30+ prospective students and families on tours of the CS building; represented the department during Explore Engineering Days and Admitted Student Days to support recruitment efforts
 
-**Society of Sales Engineers** — April 2025 – Present
-*Member*
+**Society of Sales Engineers** — April 2025 – Present 
+(*Member*)
 
 - Ranked 7th out of 50+ participants in the mock sales competition through needs analysis, objection handling, and solution presentation
 
