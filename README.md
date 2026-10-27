@@ -27,6 +27,7 @@ Computer Science student at the University of Dayton with hands-on experience ap
 - Conducted data-driven analysis of production remake issues, identifying savings projected to cut annual expenses by ~$80k
 - Developed automated Excel-based data entry tools used by 4 engineering leaders, saving hours of manual effort monthly
 - Designed a Jira workspace for 30+ Operations users, implementing automated workflows, approval routing, and custom forms
+- Developed and maintained Power BI reports to streamline data analysis and improve visibility into key operational metrics
 
 **Information Technology Intern** — June 2025 – August 2025
 *FedEx* — Pittsburgh, PA
@@ -66,12 +67,15 @@ Computer Science student at the University of Dayton with hands-on experience ap
 **School of Engineering, Computer Science Student Ambassador** — January 2025 – Present 
 (*Student Ambassador*)
 
-- Guided 30+ prospective students and families on tours of the CS building; represented the department during Explore Engineering Days and Admitted Student Days to support recruitment efforts
+- Guided 30+ prospective students and families on tours of the CS building
+- Represented the department during Explore Engineering Days and Admitted Student Days to support recruitment efforts
+- Serve on student panels in front of Admitted Students and Alumni Donors
 
 **Society of Sales Engineers** — April 2025 – Present 
 (*Member*)
 
 - Ranked 7th out of 50+ participants in the mock sales competition through needs analysis, objection handling, and solution presentation
+- Participated in Philanthropic work with Special Olympics, Habitat for Humanity, and other charitable organizations
 
 ---
 
