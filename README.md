@@ -39,6 +39,15 @@ Computer Science student at the University of Dayton with hands-on experience ap
 
 ## Projects
 
+**Predicting Bank Failure Within 4 Quarters** - November 2026
+
+*Dayton Data Challenge | First Place (R, LaTeX)*
+
+- Won 1st place in a university-wide data challenge
+- Built XGBoost and Naive Bayes classifiers on 20 predictors (capital, loan quality, earnings, county unemployment), handled the class imbalance by downsampling nonfailures and recalibrating the predicted probabilities
+- Tested on held-out 2011–2012 data (51,447 bank-quarters, 320 failures), XGBoost correctly predicting 319 failures
+- Presented findings to a panel of judges and delivered a written report that covered the model’s limitations
+
 **Detecting Online Transaction Fraud** — February 2026 – May 2026
 *Machine Learning (R)*
 
